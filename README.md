@@ -1,0 +1,1 @@
+# meraki_ap_wifi6_report
